@@ -1,2 +1,2 @@
 # genshin_app_kotlin
-kotlinでアプリ原神の攻略アプリを作るリポジトリ
+kotlinで原神の攻略アプリを作るリポジトリ
